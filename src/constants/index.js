@@ -1,0 +1,5 @@
+export const ABOUT_BABA = `My name is Jitendra Behera, and I am currently in my 50s. I have done my post graduation in Economics from Dhenkanal. In my younger days, I was deeply passionate about martial arts.Today, I work as the transport in-charge at St. Xavier's High School in Dhenkanal.Outside of work, I enjoy watching cricket and news.`;
+export const ABOUT_MAMA = `My name is Sasmita Behera, and I am in my 40s. I have completed my 12th in Arts from Dhenkanal. I am a housewife, and I take great pride in caring for my family and home.I have a passion for cooking and love trying out new recipes to delight my family. In my free time, I enjoy relaxing and watching TV.`;
+export const ABOUT_ME = `My name is Jay Jagadish Behera, and I am currently in my 20s. I am pursuing a degree in Computer Science Engineering at Silicon University in Bhubaneswar. I am proud to have been a national silver medalist in Taekwondo martial arts. In my free time, I enjoy playing football, which is one of my passions.
+
+`;
