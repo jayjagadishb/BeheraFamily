@@ -130,7 +130,7 @@ function FamilySlider() {
       name: "Barsha Priyadarshini behera",
       relationship: "Sana Bhauni",
     },
-    { img: sliderImg26, name: "Sai Simran Das", relationship: "Sana Bhauni" },
+    { img: sliderImg26, name: "Sai Simran Das", relationship: "Bhaneji" },
   ];
 
   const handlePrev = () => {
