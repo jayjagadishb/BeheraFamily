@@ -66,7 +66,7 @@ function FamilySlider() {
     },
     {
       img: sliderImg8,
-      name: "Ashok Kumar Behera & Sobhagyalaxmi Behera",
+      name: "Ashok Kumar Behera & Shobhagyalaxmi Behera",
       relationship: "Dada & Khudi",
     },
     { img: sliderImg9, name: "Manas Chandan Behera", relationship: "Dada" },
